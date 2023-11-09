@@ -1,6 +1,5 @@
-package functionalinterface;
+package streams;
 
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.Optional;
 
