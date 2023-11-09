@@ -2,7 +2,7 @@ package finalsection;
 
 import java.util.function.Consumer;
 
-public class Main {
+public class Callbacks {
     public static void main(String[] args) {
 
         System.out.println("With the last name:");
